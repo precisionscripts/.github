@@ -17,7 +17,7 @@ But we don't make poorly developed, copy-paste scripts with the same features as
 | [Secrets](https://discord.com/users/1221195589899780199) | [@bledforthesecrets](https://github.com/bledforthesecrets) | Marketing and Media Manager |
 # FAQ
 ### Q: "Do your scripts have a key system?"
-> A: **Long story short, yes.** This is so that we can pay off our expenses required for the uptime of our services, with the chance of profit on the side. **Each key lasts 48 Hours (2 Days).**
+> A: **Long story short, yes.** This is so that we can pay off our expenses required for the uptime of our services, with the chance of profit on the side. **Each key lasts 48 Hours (2 Days).** You can obtain a key at https://precisionscripts.dev/key
 ### Q: "Do you have a permanent key option?"
 > A: **Yes, we do.** This can be purchased from our website for $12 USD at https://precisionscripts.dev/purchase and will give you access to the Loader, Key, and your Dashboard for managing your HWID and Key.
 ### Q: "Are your scripts open source?"
