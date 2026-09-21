@@ -14,7 +14,7 @@ But we don't make poorly developed, copy-paste scripts with the same features as
 |------|--------|------|
 | [C Flat](https://discord.com/users/650572738750185483) | [@itscflat](https://github.com/itscflat) | Script & Web Developer |
 | [Spidurz](https://discord.com/users/1200478496644935834) | [@Apersonwhodoesnotknowhowthisworks](https://github.com/Apersonwhodoesnotknowhowthisworks) | Financial Management |
-| [Secrets](https://discord.com/users/1221195589899780199) | [@bledforthesecrets](https://github.com/bledforthesecrets) | Marketing and Media Manager |
+| [Secrets](https://discord.com/users/1221195589899780199) | [@xt5u](https://github.com/xt5u) | Marketing and Media Manager |
 # FAQ
 ### Q: "Do your scripts have a key system?"
 > A: **Long story short, yes.** This is so that we can pay off our expenses required for the uptime of our services, with the chance of profit on the side. **Each key lasts 48 Hours (2 Days).** You can obtain a key at https://precisionscripts.dev/key
